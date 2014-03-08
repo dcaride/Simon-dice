@@ -1,6 +1,6 @@
 package org.example.simondice;
 
-
+//comentarioooooooooooooooooooo
 import org.example.simondice.R.id;
 
 import android.app.Activity;
